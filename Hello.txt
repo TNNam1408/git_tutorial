@@ -5,4 +5,5 @@ Thay doi dev 2
 =======
 Hotfix
 >>>>>>> hotfix
-Thay doi dev 3
+Feature 2
+Feature 3
