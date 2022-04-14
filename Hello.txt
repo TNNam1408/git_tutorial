@@ -1,2 +1,11 @@
 Hello World
+<<<<<<< HEAD
+Thay doi dev 1
+Thay doi dev 2
+=======
 Hotfix
+>>>>>>> hotfix
+Feature 2
+Feature 3
+Release 1
+Release 2
