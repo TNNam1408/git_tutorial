@@ -6,3 +6,4 @@ Thay doi dev 2
 Hotfix
 >>>>>>> hotfix
 Feature 2
+Feature 3
